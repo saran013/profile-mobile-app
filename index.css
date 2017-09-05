@@ -1,7 +1,11 @@
 body {
     padding: 30px 100px;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Itim', sans-serif;
     background-color: lightskyblue;
+}
+
+h1{
+    font-family: 'Itim', cursive;
 }
 
 .img-circle {
